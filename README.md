@@ -43,7 +43,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 
 ### 👉 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,py)](https://skillicons.dev)
 
 ### 👉 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,vue,tailwind)](https://skillicons.dev)
@@ -53,44 +53,9 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,linux,vscode)](https://skillicons.dev)
 
 <br/>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
-<p align="left">
-  
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code> </p>
-  <hr>
 
 <!-- Streak Stats card -->
 
