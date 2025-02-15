@@ -2,17 +2,17 @@
 
 ### I'm Gamaliel Armenta,
 
-A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a>, Mexico, pursuing my degree in Software Engineering.
+A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a>, Mexico, pursuing my degree in Software Engineering 🇲🇽.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>Taking a Python Online Course, and looking forward to develop a series of educational visual novels.</li>
-    <li>Composing and producing soundtracks in Bandlab, as well as writing a series of educational novels.</li>
-    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
-    <li>AInquiring more about UX/UI.</li>
+    <li>💻Taking a Python Online Course, and looking forward to develop a series of educational visual novels.</li>
+    <li>📘🎼Composing and producing soundtracks in Bandlab, as well as writing a series of educational novels.</li>
+    <li>🏫Looking forward to take a Web Development Course in future besides school curriculum.</li>
+    <li>🖌️Learning more about UX/UI.</li>
     <li>🔜</li>
   </ul>
 </details>
@@ -31,7 +31,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 </details>
 
 - 💬 Ask me about: **HTML, Java, CSS, Web Design**
-- 📫 How to reach me: **Find me on [<img alt="Gamalel | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>]()**
+- 📫 How to reach me: **Find me on [<img alt="Gamaliel | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)()**
 - ⚡ Fun fact: **I prefer playing bass but I started with an electric guitar.**
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -53,7 +53,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### 👉 Software & Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,figma,git,github,gmail,linux,vscode)](https://skillicons.dev)
 
 <br/>
 
