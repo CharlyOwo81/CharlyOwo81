@@ -30,6 +30,10 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
   </ul>
 </details>
 
+<br>
+<br>
+<br>
+
 - 💬 Ask me about: **HTML, Java, CSS, Web Design**
 - 📫 How to reach me: **Find me on [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)**
 - ⚡ Fun fact: **I prefer playing bass but I started with an electric guitar.**
