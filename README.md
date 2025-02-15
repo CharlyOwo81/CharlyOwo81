@@ -30,6 +30,14 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
   </ul>
 </details>
 
+- 💬 Ask me about: **Vue, Powershell, C#, Architecture, Azure**
+- 📫 How to reach me: **Find me on [<img alt="Gamalel | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>]()**
+- ⚡ Fun fact: **I prefer playing bass but I started with an electric guitar.**
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 
 **Languages and Frameworks:**
