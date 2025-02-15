@@ -37,7 +37,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.charlyOwo81.vercel.app/api/spotify)](https://open.spotify.com/user/3166gk3niotc2rk324cevkmsdshu)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3166gk3niotc2rk324cevkmsdshu&unique={true|1|on|yes})
 
 ## **🛠️ My Skills**
 
