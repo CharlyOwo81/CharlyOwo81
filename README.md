@@ -9,8 +9,8 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
+    <li>Taking a Python Online Course, and looking forward to develop a series of educational visual novels.</li>
+    <li>Composing and producing soundtracks in Bandlab, as well as writing a series of educational novels.</li>
     <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
     <li>AInquiring more about UX/UI.</li>
     <li>🔜</li>
@@ -22,8 +22,8 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
-    <li>Avoid over using social media</li>
+    <li>Learn to code 3-4 hours a day with no distraction (One or two day off a week.)</li>
+    <li>Avoid overusing social media</li>
     <li>Read more books</li>
     <li>Adopting the minimalism life style</li>
     <li>🔜</li>
@@ -43,16 +43,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 
 ### 👉 Programming languages
 
-<p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
 ### 👉 Frontend Development
 <p align="left"> 
