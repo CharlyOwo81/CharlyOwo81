@@ -31,7 +31,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 </details>
 
 - 💬 Ask me about: **HTML, Java, CSS, Web Design**
-- 📫 How to reach me: **Find me on [<img alt="Gamaliel | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)()**
+- 📫 How to reach me: **Find me on [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)()**
 - ⚡ Fun fact: **I prefer playing bass but I started with an electric guitar.**
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
