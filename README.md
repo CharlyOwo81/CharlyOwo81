@@ -22,7 +22,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li>Learn to code 3-4 hours a day with no distraction (One or two day off a week.)</li>
+    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
     <li>Avoid overusing social media</li>
     <li>Read more books</li>
     <li>Adopting the minimalism life style</li>
@@ -38,7 +38,6 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 
 ### Spotify Playing 🎧
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3166gk3niotc2rk324cevkmsdshu&unique=true)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true)
 
 ## **🛠️ My Skills**
 
