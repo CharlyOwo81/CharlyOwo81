@@ -9,10 +9,10 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>💻Taking a Python Online Course, and looking forward to develop a series of educational visual novels.</li>
-    <li>📘🎼Composing and producing soundtracks in Bandlab, as well as writing a series of educational novels.</li>
-    <li>🏫Looking forward to take a Web Development Course in future besides school curriculum.</li>
-    <li>🖌️Learning more about UX/UI.</li>
+    <li>Taking a Python Online Course, and looking forward to develop a series of educational visual novels. 💻</li>
+    <li>Composing and producing soundtracks in Bandlab, as well as writing with a partner a series of educational novels. 📘🎼</li>
+    <li>Looking forward to take a Web Development Course in future besides school curriculum. 🏫</li>
+    <li>Learning more about UX/UI. 🖌️</li>
     <li>🔜</li>
   </ul>
 </details>
