@@ -50,7 +50,7 @@ A junior at <a href="https://www.itson.mx/">Technological Institute of Sonora</a
 [![My Skills](https://skillicons.dev/icons?i=js,java,py)](https://skillicons.dev)
 
 ### 👉 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
 
 ### 👉 Databases & Cloud Hosting
